@@ -1,0 +1,8 @@
+header {
+    color: white;
+    height: 70px;
+    border-bottom: 1px solid #CCCCCC;
+    display: flex;
+    align-items: center;
+    padding-left: 20px; /* Space at the left for the logo */
+}
